@@ -1,5 +1,7 @@
 # Hi there, my name is Damian, nice to see you here!. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ## Please have one cup of :coffee: 
 
 ### 🧐 About me:
